@@ -15,3 +15,15 @@ yarnpkg start
 http://localhost:3001/  # in your browser
 
 ```
+
+- Success
+
+![ScreenShot](https://raw.github.com/rezamt/react-password-meter/master/docs/success.png)
+
+- Warning
+
+![ScreenShot](https://raw.github.com/rezamt/react-password-meter/master/docs/warn.png)
+
+- Error
+
+![ScreenShot](https://raw.github.com/rezamt/react-password-meter/master/docs/error.png)
